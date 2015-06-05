@@ -1,0 +1,49 @@
+# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+[Bb]in/
+[Oo]bj/
+
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+.builds
+
+
+# ReSharper is a .NET coding add-in
+_ReSharper*
+
+# NuGet Packages Directory
+packages
+
+# mstest test results
+TestResults
+
+# OSX-specific files
+._*
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# NuGet Packages Directory
+[Pp]ackages
